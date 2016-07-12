@@ -18,6 +18,12 @@ public class Estudiante {
         this.nombre = nombre;
         this.apellido = apellido;
     }
+
+    public String getApellido() {
+        return apellido;
+    }
+    
+    
     
     
 }
